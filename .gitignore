@@ -1,0 +1,8 @@
+*.pb.cc
+*.pb.h
+*.pb.o
+*.pb.cc
+*.pb.h
+*.o
+/fbc
+/fbsd
