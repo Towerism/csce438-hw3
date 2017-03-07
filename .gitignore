@@ -4,5 +4,6 @@
 *.pb.cc
 *.pb.h
 *.o
+*.txt
 /fbc
 /fbsd
